@@ -81,11 +81,16 @@ Key insights include:
 ---
 
 ## Machine Learning Models
+- Built LogisticRegression, SVM, DecisionTree Classifier models, tuned the hyperparameters using GridSearchCV.
+- Observed the accuracy of each model, improved the model performance using feature engineering and algorithm tuning.
+- Identified the best performing model.
 - **Best Model**: Decision Tree Classifier (87% accuracy).
-- Performance metrics:
-  - Sensitivity: 1.00
-  - Precision: 0.80
-  - F1 Score: 0.89
+  - Performance metrics of the best model:
+    - Sensitivity: 1.00
+    - Specificity = 0.50
+    - Precision = 0.80
+    - Accuracy = 0.83
+    - F1 score = 0.89
 
 ---
 
